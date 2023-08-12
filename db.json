@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Kathryn Casper-Hamill",
+      "id": 6
+    },
+    {
+      "name": "Mr. Jesse Schowalter",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Unbranded Wooden Tuna",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Soft Mouse",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5274653941563392",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3687396159782912",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5616062756290560",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8747378681053184",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2287844569645056",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2607529804693504",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7291605522317312",
+      "id": 11
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8801074668371968",
+      "id": 12
+    }
+  ]
+}
